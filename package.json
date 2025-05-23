@@ -1,0 +1,23 @@
+{
+  "name": "44th-events-bot",
+  "version": "1.0.0",
+  "description": "A bot made to help with 44th Events.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commandkit": "^0.1.10",
+    "cron": "^3.1.6",
+    "discord.js": "^14.14.1",
+    "djs-commander": "^0.0.50",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "node-cron": "^3.0.3",
+    "nodemon": "^3.1.0",
+    "steam-server-query": "^1.1.3"
+  }
+}
